@@ -1,0 +1,4 @@
+---
+# defaults file for common
+#
+common_timezone: "Australia/Perth"
